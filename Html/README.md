@@ -38,7 +38,7 @@
 | 白描网页 |  https://web.baimiaoapp.com/ | 工具 |
 | 图片放大 |  http://waifu2x.udp.jp/ |  waifu |
 | | | |
-<!-- | **名称** | **尽享阅读** | **备注** |
+| **名称** | **尽享阅读** | **备注** |
 | 拷贝漫画 |  https://copymanga.com/ |  在线漫画，YYDS |
 | 禁漫天堂|  https://18comic.org/ | 在线本子，18+韩漫★ |
 | 书香门第|  http://www.txtnovel.top/ |  小说在线阅读，下载 |
@@ -54,7 +54,7 @@
 | Jable | https://jable.tv/ | 老司机说车开了 |
 | Missav | https://missav.com/ | 中等偏上 |
 | Netflav | https://netflav.com/ | AV界奈飞 |
-| Hpjav | https://hpjav.tv/ | 还行，凑合 | -->
+| Hpjav | https://hpjav.tv/ | 还行，凑合 |
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
